@@ -6,3 +6,9 @@ A Finite State Machine (FSM) orchestrates the robot's movement through distinct 
 Results demonstrate successful grasping with a grasp distance of 0.054 meters and a force closure dot product of 1.0, indicating robust stability. 
 The simulation highlights the effectiveness of the proposed approach, with potential applications in automated pick-and-place systems. 
 Future work aims to extend the methodology to non-spherical objects and real-world hardware implementations.				 
+
+# My Project
+
+This is my project, and here is a video demonstration:
+
+[Watch the video](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/video.mp4)
