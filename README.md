@@ -11,4 +11,4 @@ Future work aims to extend the methodology to non-spherical objects and real-wor
 
 This is my project, and here is a video demonstration:
 
-[Watch the video](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/video.mp4)
+[Watch the video](https://github.com/Bhavyakruthi/Intelligent-Grasping-for-Irregular-Objects-Using-Force-Control-and-Trajectory-Planning/blob/main/video.mp4)
